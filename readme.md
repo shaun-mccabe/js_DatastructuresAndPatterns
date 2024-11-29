@@ -2,8 +2,8 @@
 
 ### Data Structures
 **Trees**
-- [ ] Binary tree
-- [ ] Binary Search tree
+- [X] Binary tree
+- [X] Binary Search tree
 - [ ] AVL Trie (self balancing BST)
 - [ ] Red-Black Tree
 - [ ] Fenwick Tree
